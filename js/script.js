@@ -135,9 +135,6 @@ $(document).ready(function () {
 		$(this).closest("li").addClass("active");
 	});
 
-	$('.anchor-menu li a').smoothScroll({
-		speed: 600,
-	});
 
 
 });
